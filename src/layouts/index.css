@@ -1,0 +1,22 @@
+#all {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: RoyalBlue;
+}
+
+.logo {
+  filter: blur(2px);
+}
+
+.logo:hover {
+  filter: blur(0px);
+}
